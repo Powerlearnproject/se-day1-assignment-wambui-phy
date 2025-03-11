@@ -15,7 +15,7 @@ Mastering a programming language; profeciency in general purpose programming lan
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-requirement analysis; refers to the essential needs that software must meet to deliver the products quality
+requirement analysis; refers to the essential needs that software must meet to deliver the products quality.
 software development; this consists of a precise plan that describes hoow to develop, maintain and replace and enhance specific software.
 testing; this stage includes test planning, test analysis, test design, test enviroment set up, test execution, test closure and defect retesting.
 software design; is the specification of the interaction between a system and its environment.
